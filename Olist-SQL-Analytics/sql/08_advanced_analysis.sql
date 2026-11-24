@@ -1,0 +1,3 @@
+-- Advanced SQL TODO:
+-- CTEs, subqueries, ROW_NUMBER, RANK, LAG,
+-- month-over-month change and reusable views.

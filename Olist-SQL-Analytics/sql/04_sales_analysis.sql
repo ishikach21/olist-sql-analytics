@@ -1,0 +1,3 @@
+-- Sales analysis TODO:
+-- Monthly orders and payment value; average order value;
+-- revenue by category; payment method distribution.

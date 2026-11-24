@@ -1,0 +1,3 @@
+-- Delivery and reviews analysis TODO:
+-- Estimated vs actual delivery; late-delivery rate;
+-- review scores by delivery performance.

@@ -1,0 +1,3 @@
+-- Create the database separately in pgAdmin: olist_analytics
+-- Define table schemas here after checking the exact CSV headers and data types.
+-- Keep source tables distinct from cleaned analytical views.

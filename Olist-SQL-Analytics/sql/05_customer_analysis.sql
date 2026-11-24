@@ -1,0 +1,3 @@
+-- Customer analysis TODO:
+-- Customers by state; repeat-purchase rate; order frequency;
+-- RFM segmentation with documented assumptions.

@@ -1,0 +1,5 @@
+-- Data quality TODO:
+-- 1. Check duplicate primary keys.
+-- 2. Check missing values in key fields.
+-- 3. Check invalid dates and amounts.
+-- 4. Validate relationships between tables.

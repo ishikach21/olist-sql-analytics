@@ -1,0 +1,4 @@
+-- Initial exploration TODO:
+-- 1. Count rows in every imported table.
+-- 2. Inspect date ranges and categorical values.
+-- 3. Check NULL counts in important columns.
